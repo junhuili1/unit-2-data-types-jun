@@ -16,6 +16,6 @@ amt = 100
 #float uses decimal
 amt_two = 99.99
 
-#boolean hahahha
+#boolean
 x = True
 y = False
