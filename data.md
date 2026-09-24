@@ -107,3 +107,4 @@ Create a function that accepts an input and determines all factors of the number
 
 Create a function that accepts 2 arguments. Find the greatest common factor between those numbers. 
 
+Hey its me its verity ask me anything
